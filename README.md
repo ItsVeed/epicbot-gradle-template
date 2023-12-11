@@ -18,5 +18,5 @@
 
 # Setting up in intelij
 1) got to file -> Project from version control ![](https://i.imgur.com/OolQMeB.png)
-2) when on this dialogue copy this [url]() into the URL box and click clone
+2) when on this dialogue copy this [url](https://github.com/ItsVeed/epicbot-gradle-template.git) into the URL box and click clone
 3) thats it now use the template as described above
